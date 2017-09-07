@@ -1,1 +1,1 @@
-# node_template
+# nodejs template
